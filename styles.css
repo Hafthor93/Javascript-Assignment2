@@ -1,0 +1,9 @@
+#container {
+    height: 80vh;
+    width: 70vh;
+    border: solid 1px red;
+    text-align: center;
+    list-style-position: inside;
+    font-size: xx-large;
+    
+}
